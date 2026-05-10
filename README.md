@@ -71,7 +71,8 @@ jupyter notebook MACHINE_LEARNING_PROJECT.ipynb
 
 
 
-![Training Accuracy](https://github.com/user-attachments/assets/94e40463-c5f3-4907-9a7a-12433ca481f0)
+![Training Accuracy](<img width="642" height="465" alt="Screenshot 2025-07-23 003605" src="https://github.com/user-attachments/assets/cbca0307-148d-4983-8ff0-fa65eab61438" />
+)
 
 
 
