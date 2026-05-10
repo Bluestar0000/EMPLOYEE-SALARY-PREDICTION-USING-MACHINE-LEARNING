@@ -82,6 +82,6 @@ jupyter notebook MACHINE_LEARNING_PROJECT.ipynb
 
 
 
-![XGBoost Comparison](<img width="1119" height="668" alt="Screenshot 2025-07-23 003510" src="https://github.com/user-attachments/assets/a336aa12-aefa-4e5c-bf52-885f47fb8e88" />)
+![XGBoost Comparison](<img width="1119" height="668" alt="Screenshot 2025-07-23 003510" src="https://github.com/user-attachments/assets/a336aa12-aefa-4e5c-bf52-885f47fb8e88" />
 
 )
