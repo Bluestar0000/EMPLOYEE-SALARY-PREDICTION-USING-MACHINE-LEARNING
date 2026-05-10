@@ -65,23 +65,22 @@ jupyter notebook MACHINE_LEARNING_PROJECT.ipynb
 
 
 
-![Confusion Matrix](<img width="652" height="334" alt="Screenshot 2025-07-23 003405" src="https://github.com/user-attachments/assets/c3510d6d-e9cf-49c2-818a-9a4df2c8ca65" />
-)
+![Confusion Matrix](https://github.com/user-attachments/assets/c3510d6d-e9cf-49c2-818a-9a4df2c8ca65)
 
 
 
 
-![Training Accuracy](<img width="642" height="465" alt="Screenshot 2025-07-23 003605" src="https://github.com/user-attachments/assets/94e48463-c5f3-4907-9a7a-12433ca481f0" />
-)
+
+![Training Accuracy](https://github.com/user-attachments/assets/94e40463-c5f3-4907-9a7a-12433ca481f0)
 
 
 
 
-![GUI](<img width="1902" height="892" alt="Screenshot 2025-07-23 003638" src="https://github.com/user-attachments/assets/67fb0dee-a6ad-4985-8ce8-798df1fa61a6" />)
+
+![GUI](https://github.com/user-attachments/assets/67fb0dee-a6ad-4985-8ce8-798df1fa61a6)
 
 
 
 
-![XGBoost Comparison](<img width="1119" height="668" alt="Screenshot 2025-07-23 003510" src="https://github.com/user-attachments/assets/a336aa12-aefa-4e5c-bf52-885f47fb8e88" />
 
-)
+![XGBoost Comparison](https://github.com/user-attachments/assets/a336aa12-aefa-4e5c-bf52-885f47fb8e88)
