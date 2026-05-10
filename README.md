@@ -59,6 +59,7 @@ attributes using supervised machine learning and deep learning approaches.
 git clone https://github.com/Bluestar0000/EMPLOYEE-SALARY-PREDICTION-USING-MACHINE-LEARNING.git
 cd EMPLOYEE-SALARY-PREDICTION-USING-MACHINE-LEARNING
 jupyter notebook MACHINE_LEARNING_PROJECT.ipynb
+```
 
 ## Results
 
